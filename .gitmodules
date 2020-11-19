@@ -1,0 +1,3 @@
+[submodule "test-sub-modual"]
+	path = include/foo
+	url = https://github.com/Monkey02Psycho/test-sub-modual.git
